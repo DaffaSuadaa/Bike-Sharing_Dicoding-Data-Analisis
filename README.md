@@ -7,3 +7,17 @@ Ini adalah proyek data analisis dan visualisasi data dari Final Course Dicoding 
 - Readme.txt : Berisikan Dokumentasi data
 - dashboard_bike-sharing-dataset.py : File ini berisi analisis data
 - notebook_bike-sharing.ipynb : File ini berisi dashboard dari hasil analisis data
+
+## Instalation 
+1. Clone this repository
+```R
+git clone https://github.com/DaffaSuadaa/Bike-Sharing_Dicoding-Data-Analisis-Data.git
+```
+2. Go to the project directory
+```R
+cd/Bike-Sharing_Dicoding-Data-Analisis-main
+```
+3. Run streamlit
+```R
+streamlit run dashboard_bike-sharing-dataset.py
+```
