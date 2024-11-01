@@ -28,6 +28,27 @@ This project is a data analysis and visualization for the final course of Dicodi
 - Create Dashboard Visualization
 - Interactive Filters
 
+## **Insight:**
+1. **Bike Usage Trends from 2011 to 2012**
+   - There was a positive increase in bike usage from 2011 to 2012.
+   - The highest increases during specific months suggest seasonal or external factors influencing bike usage.
+
+2. **Consistent Weekly Usage Trend**
+   - Bike rentals throughout the week show a stable pattern, with an average of approximately 143 rentals per day.
+
+3. **Hourly Rental Trends**
+   - Bike usage increases significantly during the morning (6-8 AM) and evening (5-6 PM), indicating that bikes are often used for commuting to and from work.
+
+4. **Weather Conditions and Bike Usage Correlation**
+   - Temperature shows a positive correlation with bike rentals, suggesting that warmer weather encourages more biking.
+   - Conversely, humidity shows a negative correlation with bike rentals, indicating that high humidity makes users less comfortable riding.
+
+5. **Weather Preferences for Biking**
+   - Users prefer relatively clear weather and tend to avoid extreme weather conditions.
+
+6. **Seasonal Comparisons**
+   - The highest usage occurs during Fall, followed by Summer. Spring and Winter show lower usage, possibly due to less favorable weather conditions.
+
 
 ## Project Structure
 - bike-sharing-dataset : Contains raw data in .csv format (day and hour).
