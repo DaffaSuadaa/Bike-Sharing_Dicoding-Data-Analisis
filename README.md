@@ -1,6 +1,6 @@
 # Bike Sharing - Dicoding Data Analisis
 ## Overview
-Ini adalah proyek data analisis dan visualisasi data dari Final Course Dicoding untuk "Analisis Data dengan Pyhton". Analisis ini berfokus untuk menganalisis data penyewaan sepedah dengan catatan historis dua tahun yang sesuai dengan tahun 2011 dan 2012 dari sistem Capital Bikeshare, Washington D.C., AS yang tersedia untuk umum di http://capitalbikeshare.com/system-data.
+This project is a data analysis and visualization for the final course of Dicoding’s Data Analysis with Python. It focuses on analyzing bike rental data with two years of historical records (2011 and 2012) from Washington D.C.’s Capital Bikeshare system. The publicly available dataset provides valuable insights into rental patterns, weather influences, and user types, accessible at Capital Bikeshare.
 
 
 ## Objective
@@ -11,13 +11,29 @@ Ini adalah proyek data analisis dan visualisasi data dari Final Course Dicoding 
 - Apakah terdapat korelasi antara kondisi cuaca dan performa penyewaan sepedah?
 - Adakah pengaruh kondisi cuaca dalam penyewaan sepedah?
 - Bagaimana perbandingan antar musim dengan pengguna registered dan casual?
-     
+
+**2. Data Wrangling**
+- Gathering Data
+- Assessing Data
+- Cleaning Data
+
+**3. Exploratory Data Analysis** 
+- Create Data Exploration
+
+**4. Visualization & Explanatory Analysis** 
+- Create Data Visualization that answer business questions
+- Answer Business Questions with Visualizations
+
+**5. Streamlit** 
+- Create Dashboard Visualization
+- Interactive Filters
+
 
 ## Project Structure
-- bike-sharing-dataset : Terdapat raw data berbentuk .csv (day dan hour)
-- Readme.txt : Berisikan Dokumentasi data
-- dashboard_bike-sharing-dataset.py : File ini berisi analisis data
-- notebook_bike-sharing.ipynb : File ini berisi dashboard dari hasil analisis data
+- bike-sharing-dataset : Contains raw data in .csv format (day and hour).
+- Readme.txt : Contains data documentation.
+- dashboard_bike-sharing-dataset.py : This file contains visualization and interactive filter with streamlit.
+- notebook_bike-sharing.ipynb : This file contains the dashboard with the analysis results.
 
 ## Instalation 
 1. Clone this repository
