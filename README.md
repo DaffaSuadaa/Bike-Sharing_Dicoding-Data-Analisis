@@ -56,6 +56,13 @@ This project is a data analysis and visualization for the final course of Dicodi
 - dashboard_bike-sharing-dataset.py : This file contains visualization and interactive filter with streamlit.
 - notebook_bike-sharing.ipynb : This file contains the dashboard with the analysis results.
 
+## Dashboard Streamlit
+Visit the interactive dashboard here : https://daffa-bike-sharing.streamlit.app/
+
+<img width="1434" alt="Screen Shot 2024-11-01 at 11 28 06" src="https://github.com/user-attachments/assets/75b6cc5a-5963-4e66-ae88-8edf46093f4e">
+<img width="1435" alt="Screen Shot 2024-11-01 at 11 29 51" src="https://github.com/user-attachments/assets/e1030e54-3039-4b9c-9d9b-c23906079b1d">
+
+
 ## Instalation 
 1. Clone this repository
 ```R
@@ -69,3 +76,7 @@ cd/Bike-Sharing_Dicoding-Data-Analisis-main
 ```R
 streamlit run dashboard_bike-sharing-dataset.py
 ```
+**Note:**
+There may be differences in directory order, so make sure you enter the correct directory.
+
+**Thank you !!**
