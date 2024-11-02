@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def load_data():
-    data = pd.read_csv("bike-sharing/dashboard/cleaned_hour_data.csv")
+    data = pd.read_csv("dashboard/cleaned_hour_data.csv")
     return data
 data_df = load_data()
 
